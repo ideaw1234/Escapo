@@ -13,6 +13,7 @@
 การดูแล บารุงรักษา จัดการอบรมการใช้งาน หรือพัฒนาประสิทธิภาพซอฟต์แวร์ รวมทั้ง
 ไม่รับรองความถูกต้องหรือประสิทธิภาพการทางานของซอฟต์แวร์ ตลอดจนไม่รับประกัน
 ความเสียหายต่าง ๆ อันเกิดจากการใช้ซอฟต์แวร์นี้ทั้งสิ้น
+
 License Agreement
 This software is a work developed by Mr.Pheeratchai  Jaiprasong and Mr.Pongsakorn  Jueayjaew from Sawananan wittaya School 
 under the provision of Mr.Pramote  Wongkhum under "Escapo" entertainment software (Student), 
