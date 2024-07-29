@@ -1,4 +1,4 @@
-Library: D:\Games\BasicGame2D\NSCMASTER\NSCMASTER\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+Library: D:\cxx\NSCMASTER\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --platform=Windows
 --backend=burst-llvm-14
 --target=X64_SSE2
@@ -99,11 +99,6 @@ Library: D:\Games\BasicGame2D\NSCMASTER\NSCMASTER\Temp\StagingArea\Data\Plugins\
 --compilation-defines=NET_STANDARD_2_1
 --compilation-defines=NETSTANDARD
 --compilation-defines=NETSTANDARD2_1
---compilation-defines=DEVELOPMENT_BUILD
---compilation-defines=ENABLE_PROFILER
---compilation-defines=DEBUG
---compilation-defines=TRACE
---compilation-defines=UNITY_ASSERTIONS
 --compilation-defines=ENABLE_CUSTOM_RENDER_TEXTURE
 --compilation-defines=ENABLE_DIRECTOR
 --compilation-defines=ENABLE_LOCALIZATION
@@ -155,11 +150,10 @@ Library: D:\Games\BasicGame2D\NSCMASTER\NSCMASTER\Temp\StagingArea\Data\Plugins\
 --compilation-defines=TIMELINE_FRAMEACCURATE
 --linker-options=PdbAltPath="Escapo_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=D:\Games\BasicGame2D\NSCMASTER\NSCMASTER\Temp\Burst
---debug=LineOnly
---key-folder=D:/Games/2021.3.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=D:\Games\BasicGame2D\NSCMASTER\NSCMASTER\Library\Burst
---output=D:\Games\BasicGame2D\NSCMASTER\NSCMASTER\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+--temp-folder=D:\cxx\NSCMASTER\Temp\Burst
+--key-folder=D:/Uni/2021.3.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--decode-folder=D:\cxx\NSCMASTER\Library\Burst
+--output=D:\cxx\NSCMASTER\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
@@ -276,11 +270,6 @@ Library: D:\Games\BasicGame2D\NSCMASTER\NSCMASTER\Temp\StagingArea\Data\Plugins\
 --compilation-defines=NET_STANDARD_2_1
 --compilation-defines=NETSTANDARD
 --compilation-defines=NETSTANDARD2_1
---compilation-defines=DEVELOPMENT_BUILD
---compilation-defines=ENABLE_PROFILER
---compilation-defines=DEBUG
---compilation-defines=TRACE
---compilation-defines=UNITY_ASSERTIONS
 --compilation-defines=ENABLE_CUSTOM_RENDER_TEXTURE
 --compilation-defines=ENABLE_DIRECTOR
 --compilation-defines=ENABLE_LOCALIZATION
@@ -332,11 +321,10 @@ Library: D:\Games\BasicGame2D\NSCMASTER\NSCMASTER\Temp\StagingArea\Data\Plugins\
 --compilation-defines=TIMELINE_FRAMEACCURATE
 --linker-options=PdbAltPath="Escapo_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=D:\Games\BasicGame2D\NSCMASTER\NSCMASTER\Temp\Burst
---debug=LineOnly
---key-folder=D:/Games/2021.3.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=D:\Games\BasicGame2D\NSCMASTER\NSCMASTER\Library\Burst
---output=D:\Games\BasicGame2D\NSCMASTER\NSCMASTER\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+--temp-folder=D:\cxx\NSCMASTER\Temp\Burst
+--key-folder=D:/Uni/2021.3.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--decode-folder=D:\cxx\NSCMASTER\Library\Burst
+--output=D:\cxx\NSCMASTER\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
